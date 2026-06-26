@@ -1,5 +1,7 @@
 # Изучение KAN
 
+## API 
+
 introduction_KAN.ipynb - введение
 
 api_indexing.ipynb - интерфейс индексирования
@@ -23,3 +25,9 @@ api_device.ipynb - выбор устройства
 api_create_dataset.ipynb - создание датасетов
 
 api_save_load.ipynb - сохранение, загрузка модели.
+
+## Example
+
+## Interp
+
+## Physics
